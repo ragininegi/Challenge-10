@@ -10,10 +10,10 @@ This analysis involves data cleaning, PCA (principal component analysis), and cl
 It supports Python 3.7 and above and has been constructed in the jupyter lab notebook named ```crypto_investments.ipynb```
 Additionally, the following packages/libraries are used to run the analysis:
 
-- pandas]
-- scikit-learn]
+- pandas
+- scikit-learn
 - jupyter
-- hvplot]
+- hvplot
 - pyviz
 - holoviews
 
